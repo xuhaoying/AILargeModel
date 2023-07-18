@@ -188,7 +188,55 @@ A: 自注意力机制（Self-Attention Mechanism），也被称为自我注意�
 
 ---
 
+Q: 机器学习基础相关的经典论文及课程
 
+A: 以下是一些关于机器学习基础的经典论文，这些论文可以帮助你更深入地理解机器学习的基本概念和方法：
+
+1. [A Very Brief Introduction to Machine Learning With Applications to Communication Systems](https://ieeexplore.ieee.org/ielx7/6687307/8584171/08542764.pdf)：这篇论文提供了一个关于监督学习和无监督学习基础的高级介绍，并讨论了在通信网络中的应用。
+
+2. [Artificial Intelligence and Machine Learning in Anesthesiology](https://pubs.asahq.org/anesthesiology/article-pdf/131/6/1346/489029/20191200_0-00029.pdf)：这篇论文描述了如何将机器学习应用于麻醉学，它提供了一种理解如何从简单的方程中产生决策行为的方式。
+
+3. [Machine Learning in Dermatology: Current Applications, Opportunities, and Limitations](https://link.springer.com/content/pdf/10.1007/s13555-020-00372-0.pdf)：这篇论文提供了一个关于机器学习基础的概述，以及当前在皮肤科的应用，以及进一步发展的潜力和限制。
+
+4. [Teaching Machine Learning in School: A Systematic Mapping of the State of the Art](https://infedu.vu.lt/journal/INFEDU/article/367/file/pdf)：这篇论文提供了一个关于在学校教授机器学习概念的现状的系统性映射。
+
+对于在线课程，以下是一些推荐的学习资源：
+
+- [Coursera的机器学习课程](https://www.coursera.org/learn/machine-learning)：这是由斯坦福大学的Andrew Ng教授开设的课程，是最受欢迎的机器学习入门课程之一。
+
+- [edX的机器学习课程](https://www.edx.org/professional-certificate/python-data-science)：这是由IBM提供的一系列课程，涵盖了数据科学和机器学习的基础知识。
+
+- [fast.ai的机器学习课程](https://course.fast.ai/ml)：这是一个更实践性的课程，强调通过实际项目来学习机器学习。
+
+希望这些信息对你有所帮助！如果你有任何其他问题，欢迎随时提问。
+
+---
+
+Q: 深度学习基础相关的经典论文和课程
+
+A: 以下是一些关于深度学习基础的经典论文，这些论文可以帮助你更深入地理解深度学习的基本概念和方法：
+
+1. [Cancer Diagnosis Using Deep Learning: A Bibliographic Review](https://www.mdpi.com/2072-6694/11/9/1235/pdf?version=1566558778)：这篇论文提供了一个关于深度学习在癌症诊断中应用的概述，包括预处理、图像分割和后处理等步骤。
+
+2. [Survey of Deep Reinforcement Learning for Motion Planning of Autonomous Vehicles](https://ieeexplore.ieee.org/ielx7/6979/9701814/09210154.pdf)：这篇论文提供了一个关于深度强化学习在自动驾驶车辆运动规划中应用的概述。
+
+3. [A survey on deep learning-based non-invasive brain signals: recent advances and new frontiers](http://arxiv.org/pdf/1905.04149)：这篇论文提供了一个关于深度学习在非侵入性脑信号分析中应用的概述。
+
+4. [Back to Basics: Benchmarking Canonical Evolution Strategies for Playing Atari](https://www.ijcai.org/proceedings/2018/0197.pdf)：这篇论文提供了一个关于使用深度学习进行Atari游戏的基准测试的概述。
+
+对于在线课程，以下是一些推荐的学习资源：
+
+- [Coursera的深度学习专项课程](https://www.coursera.org/specializations/deep-learning)：这是由斯坦福大学的Andrew Ng教授开设的课程，是最受欢迎的深度学习入门课程之一。
+
+- [fast.ai的深度学习课程](https://course.fast.ai/)：这是一个更实践性的课程，强调通过实际项目来学习深度学习。
+
+- [Stanford University的CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)：这门课程专注于视觉识别问题，特别是使用卷积神经网络的方法。
+
+- [Stanford University的CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)：这门课程专注于自然语言处理问题，特别是使用深度学习的方法。
+
+希望这些信息对你有所帮助！如果你有任何其他问题，欢迎随时提问。
+
+---
 
 
 
